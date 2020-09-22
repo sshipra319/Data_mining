@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 28 13:48:02 2020
-
-@author: Shipra
+Created on Sat Mar 28 2020
 """
 import numpy as np
 import matplotlib.pyplot as plt
