@@ -212,8 +212,7 @@ class NaiveBayes:
         
         df_array = df1.to_numpy()
         print(df_array)
-        
-
+       
 def main():
     nb = NaiveBayes()
     nb.part_1_1()
