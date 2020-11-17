@@ -1,7 +1,6 @@
 
 """
 Created on Sat Mar 28 2020
-@author: Shipra Saini
 """
 
 import numpy as np
